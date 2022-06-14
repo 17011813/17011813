@@ -11,27 +11,93 @@
 - 세종대학교 지능기전공학부 스마트기기공학전공 학사 졸업 (17.03 ~ 21.02)
 
 ### Skills
-- 프로그래밍언어
 
-  <a href="https://python.org/">
+<p align="left"> 
+
+&emsp;
+<a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a> &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> 
-- 데이터사이언스
-  - `Pandas` `Scikit-Learn` `Matplotlib`
-- 딥러닝
+  </a>
+  &emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+&emsp;
+<a href="	www.iso.org/standard/74528.html">
+    <img alt="C" src="https://img.shields.io/badge/C-FFD43B?style=for-the-badge&logo=C&logoColor=red"/>
+  </a>
 
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+  &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+   &emsp;
+    <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
+    &emsp;
+    <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+    &emsp;
+    <a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+    &emsp;
+    <a href="https://https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=gold"></a>
+    &emsp;
+    <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+    &emsp;
+  <a href="https://keras.io/" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  </a>
   &emsp;
   <a href="https://pytorch.org/" target="_blank"> 
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+  </a>
+</p>
 
-- 클라우드
-  - `AWS Cloud Practitioner Essentials`
+ ### 👉 Software & Tools
+
+<p>
+   &emsp;
+  <a href="https://www.kaggle.com/aastha124" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a> 
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+     &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+
   
 ### Activities
 - 데이콘에서 KIST가 주관한 생육 환경 최적화 경진대회 참가
@@ -59,12 +125,18 @@
     - `Python` `Deep Learning` `Time Series`
     - [Github](https://github.com/17011813/ECG-classification-HDAI-2021).
 
+ - Flask를 이용한 비디오 to 텍스트 인공지능 웹 프로젝트 (19.09 ~ 19.12)
+    - VGG16, ResNet34 모델을 바탕으로 꽃 이미지가 입력되었을 때, 꽃에 대한 축제 정보를 제공하는 웹 서비스 제작
+    - `Web Service` `Tensorflow` `Image Classification` 내용 수정~~~
+    - [Github](https://github.com/17011813/FlowerClassification).
+    - [Report](https://github.com/17011813/FlowerClassification/blob/master/%EA%BD%83%EB%B6%84%EB%A5%98%EB%85%BC%EB%AC%B8%EC%B5%9C%EC%A2%85.pdf).
+  
 - 강화학습을 사용한 Auto Pilot 자율 주행 프로젝트 (20.03 ~ 20.09)
     - 주행 이미지가 입력되었을 때 Conv 모델을 사용한 강화 학습을 통해 임베디드 보드에서 자율 주행이 가능한 모델 개발
     - `Auto Driving` `Tensorflow` `Image Segmentation`
     - [Github](https://github.com/17011813/Autopilot-TensorFlow).
     
-- 인공지능 꽃 분류기 웹 프로젝트 (19.03 ~ 19.07)
+- Flask를 이용한 인공지능 꽃 분류기 웹 프로젝트 (19.03 ~ 19.07)
     - VGG16, ResNet34 모델을 바탕으로 꽃 이미지가 입력되었을 때, 꽃에 대한 축제 정보를 제공하는 웹 서비스 제작
     - `Web Service` `Tensorflow` `Image Classification`
     - [Github](https://github.com/17011813/FlowerClassification).
