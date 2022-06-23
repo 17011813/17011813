@@ -100,7 +100,6 @@
 
   
 ### Activities
-- 데이콘에서 KIST가 주관한 생육 환경 최적화 경진대회 참가
 - 서울대학교병원이 주관한 2021 심전도 데이터 데이터톤 대회 참가
 - 주식회사 인포웍스 ICT 인턴(20.03 ~ 20.09)
 - 세종대학교 MINES LAB 인턴(18.03 ~ 19.07)
@@ -176,3 +175,7 @@
 ## Language
 - TOEIC: 930 (2019.08)
 - TOEIC SPEAKING: 170 (level 7) (2020.01)
+    
+## Certificate
+- AWS Certified Cloud Practitioner (2022.06.19)
+![image](https://user-images.githubusercontent.com/48427281/175208494-c7d2d0a4-fccb-46bf-811b-c86bfd3b0733.png)
