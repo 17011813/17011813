@@ -125,10 +125,9 @@
     - [Github](https://github.com/17011813/ECG-classification-HDAI-2021).
 
  - Flask를 이용한 비디오 to 텍스트 인공지능 웹 프로젝트 (19.09 ~ 19.12)
-    - VGG16, ResNet34 모델을 바탕으로 꽃 이미지가 입력되었을 때, 꽃에 대한 축제 정보를 제공하는 웹 서비스 제작
-    - `Web Service` `Tensorflow` `Image Classification` 내용 수정~~~
-    - [Github](https://github.com/17011813/FlowerClassification).
-    - [Report](https://github.com/17011813/FlowerClassification/blob/master/%EA%BD%83%EB%B6%84%EB%A5%98%EB%85%BC%EB%AC%B8%EC%B5%9C%EC%A2%85.pdf).
+    - CNN, LSTM 모델을 사용하여 영상의 특징을 추출하는 딥러닝 CNN 네트워크와 이를 기반으로 문장과 매칭시켜 학습시키는 LSTM 네트워크가 결합하여 캠퍼스를 AI로 소개하는 웹 서비스 제작
+    - `Web Service` `S2VT` `LSTM`
+    - [Github](https://github.com/17011813/capstone).
   
 - 강화학습을 사용한 Auto Pilot 자율 주행 프로젝트 (20.03 ~ 20.09)
     - 주행 이미지가 입력되었을 때 Conv 모델을 사용한 강화 학습을 통해 임베디드 보드에서 자율 주행이 가능한 모델 개발
