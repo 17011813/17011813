@@ -55,10 +55,6 @@
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
     &emsp;
-    <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
-    &emsp;
     <a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
     &emsp;
     <a href="https://https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=gold"></a>
@@ -100,7 +96,6 @@
 
   
 ### Activities
-- 서울대학교병원이 주관한 2021 심전도 데이터 데이터톤 대회 참가
 - 주식회사 인포웍스 ICT 인턴(20.03 ~ 20.09)
 - 세종대학교 MINES LAB 인턴(18.03 ~ 19.07)
 
@@ -113,6 +108,11 @@
 [Google Scholar Profile](https://scholar.google.com/citations?user=ZsuRJIkAAAAJ&hl=ko)
 
 ## Projects
+- Django를 이용한 주식 가격 예측 프로젝트 (21.11 ~ 22.02)
+    - 주식 API를 크롤링하여 LSTM 모델을 사용하여 미래 30일까지의 주가 예측 웹 서비스 제작
+    - `Stock Prediction` `Deep Learning` `Web Service`
+    - [Github](https://github.com/17011813/stock-predict-django).
+
 - 2021년 BK21 펠로우십 장학프로그램 대학원생 졸업 기간 예측 (21.11 ~ 22.02)
     - 고려대학교 대학원생 입학/졸업 데이터를 바탕으로 LightGBM, SHAP을 사용하여 졸업 기간 예측 및 요인 분석
     - `Python` `Machine Learning` `Classification`
@@ -165,6 +165,8 @@
   - 미국 버지니아주 교환학생
   
 ## Awards
+- 우수 논문상, "지역 간 스펙트럼 유사도를 통한 GNN 기반의 인플루엔자 예측 기법", 2022 한국컴퓨터종합학술대회, 제주, 한국정보과학회 (22.07)
+- 우수 논문상, "MAML 기반 인플루엔자 시계열 예측 기법", 2022 한국멀티미디어학회 춘계학술발표대회, 대전, 한국정보과학회 (22.05)
 - 우수 발표 논문상, "자기지도 학습 기반의 신종 감염병 예측 모델 추천 기법", 2021 한국소프트웨어종합학술대회, 평창, 한국정보과학회 (22.02)
 - 우수 발표 논문상, "LSTM 기반의 코로나19 일별 확진자 수 예측 기법", 2021 한국컴퓨터종합학술대회, 제주, 한국정보과학회 (21.07)
 - 캡스톤 창의설계 경진대회 1등, 세종대학교 소프트웨어중심대학 사업단 (20.12)
