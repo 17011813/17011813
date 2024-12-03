@@ -177,7 +177,7 @@
 ## Language
 - TOEIC: 930 (2019.08)
 - TOEIC SPEAKING: 170 (level 7) (2020.01)
-- OPIC: IH (2022.08)
+- OPIC: AL (2024.09)
     
 ## Certificate
 - AWS Certified Cloud Practitioner (2022.06.19)
